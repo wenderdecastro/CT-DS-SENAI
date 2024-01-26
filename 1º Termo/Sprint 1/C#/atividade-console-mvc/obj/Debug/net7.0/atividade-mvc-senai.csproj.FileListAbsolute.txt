@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\atividade-mvc-senai\bin\Debug\net7.0\atividade-mvc-senai.exe
+C:\Users\57267874800\Documents\atividade-mvc-senai\bin\Debug\net7.0\atividade-mvc-senai.deps.json
+C:\Users\57267874800\Documents\atividade-mvc-senai\bin\Debug\net7.0\atividade-mvc-senai.runtimeconfig.json
+C:\Users\57267874800\Documents\atividade-mvc-senai\bin\Debug\net7.0\atividade-mvc-senai.dll
+C:\Users\57267874800\Documents\atividade-mvc-senai\bin\Debug\net7.0\atividade-mvc-senai.pdb
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.AssemblyInfo.cs
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.dll
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\refint\atividade-mvc-senai.dll
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.pdb
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\atividade-mvc-senai.genruntimeconfig.cache
+C:\Users\57267874800\Documents\atividade-mvc-senai\obj\Debug\net7.0\ref\atividade-mvc-senai.dll

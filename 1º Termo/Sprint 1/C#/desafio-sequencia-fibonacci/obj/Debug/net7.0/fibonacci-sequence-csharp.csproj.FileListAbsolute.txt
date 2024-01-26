@@ -1,0 +1,15 @@
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\bin\Debug\net7.0\fibonacci-sequence-csharp.exe
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\bin\Debug\net7.0\fibonacci-sequence-csharp.deps.json
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\bin\Debug\net7.0\fibonacci-sequence-csharp.runtimeconfig.json
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\bin\Debug\net7.0\fibonacci-sequence-csharp.dll
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\bin\Debug\net7.0\fibonacci-sequence-csharp.pdb
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.csproj.AssemblyReference.cache
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.AssemblyInfoInputs.cache
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.AssemblyInfo.cs
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.dll
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\refint\fibonacci-sequence-csharp.dll
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.pdb
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\fibonacci-sequence-csharp.genruntimeconfig.cache
+C:\Users\Clune\Desktop\code\coding\fibonacci-sequence-csharp\obj\Debug\net7.0\ref\fibonacci-sequence-csharp.dll

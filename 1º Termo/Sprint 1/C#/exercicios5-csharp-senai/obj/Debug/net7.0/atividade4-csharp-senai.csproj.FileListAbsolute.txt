@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\bin\Debug\net7.0\atividade4-csharp-senai.exe
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\bin\Debug\net7.0\atividade4-csharp-senai.deps.json
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\bin\Debug\net7.0\atividade4-csharp-senai.runtimeconfig.json
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\bin\Debug\net7.0\atividade4-csharp-senai.dll
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\bin\Debug\net7.0\atividade4-csharp-senai.pdb
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.AssemblyInfo.cs
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.dll
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\refint\atividade4-csharp-senai.dll
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.pdb
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\atividade4-csharp-senai.genruntimeconfig.cache
+C:\Users\57267874800\Documents\coding\atividade4-csharp-senai\obj\Debug\net7.0\ref\atividade4-csharp-senai.dll

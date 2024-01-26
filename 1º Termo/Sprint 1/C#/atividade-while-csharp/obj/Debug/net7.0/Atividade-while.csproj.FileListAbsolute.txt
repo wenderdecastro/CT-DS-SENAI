@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\coding\Atividade-while\bin\Debug\net7.0\Atividade-while.exe
+C:\Users\57267874800\Documents\coding\Atividade-while\bin\Debug\net7.0\Atividade-while.deps.json
+C:\Users\57267874800\Documents\coding\Atividade-while\bin\Debug\net7.0\Atividade-while.runtimeconfig.json
+C:\Users\57267874800\Documents\coding\Atividade-while\bin\Debug\net7.0\Atividade-while.dll
+C:\Users\57267874800\Documents\coding\Atividade-while\bin\Debug\net7.0\Atividade-while.pdb
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.AssemblyInfo.cs
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.dll
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\refint\Atividade-while.dll
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.pdb
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\Atividade-while.genruntimeconfig.cache
+C:\Users\57267874800\Documents\coding\Atividade-while\obj\Debug\net7.0\ref\Atividade-while.dll

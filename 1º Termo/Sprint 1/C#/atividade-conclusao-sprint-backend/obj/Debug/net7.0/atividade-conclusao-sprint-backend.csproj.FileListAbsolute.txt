@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\bin\Debug\net7.0\atividade-conclusao-sprint-backend.exe
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\bin\Debug\net7.0\atividade-conclusao-sprint-backend.deps.json
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\bin\Debug\net7.0\atividade-conclusao-sprint-backend.runtimeconfig.json
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\bin\Debug\net7.0\atividade-conclusao-sprint-backend.dll
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\bin\Debug\net7.0\atividade-conclusao-sprint-backend.pdb
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.AssemblyInfo.cs
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.dll
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\refint\atividade-conclusao-sprint-backend.dll
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.pdb
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\atividade-conclusao-sprint-backend.genruntimeconfig.cache
+C:\Users\57267874800\Documents\atividade-conclusao-sprint-backend\obj\Debug\net7.0\ref\atividade-conclusao-sprint-backend.dll

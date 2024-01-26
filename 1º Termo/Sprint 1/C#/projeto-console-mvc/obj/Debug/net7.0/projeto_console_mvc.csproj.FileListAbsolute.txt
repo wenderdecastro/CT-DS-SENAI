@@ -1,0 +1,15 @@
+C:\Users\55358961879\Desktop\projeto_console_mvc\bin\Debug\net7.0\projeto_console_mvc.exe
+C:\Users\55358961879\Desktop\projeto_console_mvc\bin\Debug\net7.0\projeto_console_mvc.deps.json
+C:\Users\55358961879\Desktop\projeto_console_mvc\bin\Debug\net7.0\projeto_console_mvc.runtimeconfig.json
+C:\Users\55358961879\Desktop\projeto_console_mvc\bin\Debug\net7.0\projeto_console_mvc.dll
+C:\Users\55358961879\Desktop\projeto_console_mvc\bin\Debug\net7.0\projeto_console_mvc.pdb
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.csproj.AssemblyReference.cache
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.AssemblyInfoInputs.cache
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.AssemblyInfo.cs
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.csproj.CoreCompileInputs.cache
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.dll
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\refint\projeto_console_mvc.dll
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.pdb
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\projeto_console_mvc.genruntimeconfig.cache
+C:\Users\55358961879\Desktop\projeto_console_mvc\obj\Debug\net7.0\ref\projeto_console_mvc.dll

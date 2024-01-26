@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\bin\Debug\net7.0\Projeto-Console-Calculadora.exe
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\bin\Debug\net7.0\Projeto-Console-Calculadora.deps.json
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\bin\Debug\net7.0\Projeto-Console-Calculadora.runtimeconfig.json
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\bin\Debug\net7.0\Projeto-Console-Calculadora.dll
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\bin\Debug\net7.0\Projeto-Console-Calculadora.pdb
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.AssemblyInfo.cs
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.dll
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\refint\Projeto-Console-Calculadora.dll
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.pdb
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\Projeto-Console-Calculadora.genruntimeconfig.cache
+C:\Users\57267874800\Documents\coding\Projeto-Console-Calculadora\obj\Debug\net7.0\ref\Projeto-Console-Calculadora.dll

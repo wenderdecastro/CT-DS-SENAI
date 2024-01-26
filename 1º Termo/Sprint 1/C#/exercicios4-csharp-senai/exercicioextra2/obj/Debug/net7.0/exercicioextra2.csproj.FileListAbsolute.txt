@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\bin\Debug\net7.0\exercicioextra2.exe
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\bin\Debug\net7.0\exercicioextra2.deps.json
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\bin\Debug\net7.0\exercicioextra2.runtimeconfig.json
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\bin\Debug\net7.0\exercicioextra2.dll
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\bin\Debug\net7.0\exercicioextra2.pdb
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.AssemblyInfo.cs
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.dll
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\refint\exercicioextra2.dll
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.pdb
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\exercicioextra2.genruntimeconfig.cache
+C:\Users\57267874800\Documents\coding\atividades3-csharp-senai\exercicioextra2\obj\Debug\net7.0\ref\exercicioextra2.dll

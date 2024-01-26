@@ -1,0 +1,15 @@
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.csproj.AssemblyReference.cache
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.AssemblyInfoInputs.cache
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.AssemblyInfo.cs
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.csproj.CoreCompileInputs.cache
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\bin\Debug\net7.0\atividade-sistema-de-produtos-senai.exe
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\bin\Debug\net7.0\atividade-sistema-de-produtos-senai.deps.json
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\bin\Debug\net7.0\atividade-sistema-de-produtos-senai.runtimeconfig.json
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\bin\Debug\net7.0\atividade-sistema-de-produtos-senai.dll
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\bin\Debug\net7.0\atividade-sistema-de-produtos-senai.pdb
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.dll
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\refint\atividade-sistema-de-produtos-senai.dll
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.pdb
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\atividade-sistema-de-produtos-senai.genruntimeconfig.cache
+C:\Users\57267874800\Documents\coding\atividade-sistema-de-produtos-senai\obj\Debug\net7.0\ref\atividade-sistema-de-produtos-senai.dll
