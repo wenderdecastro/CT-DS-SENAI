@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Simple Calculator</h1>
+
+    <form action="" method="post" onsubmit="calculate()">
+      <label for="numeroX">N1</label>
+      <input type="text" placeholder="Insira o Número X" id="numeroX" />
+
+      <br />
+      <br />
+
+      <select name="" id="operacao">
+        ]
+        <option value="">Selecione uma operação</option>
+        <option value="+">Somar</option>
+        <option value="-">Subtrair</option>
+        <option value="/">Dividir</option>
+        <option value="*">Multiplicar</option>
+      </select>
+      <br />
+      <br />
+
+      
+
+      <label for="numeroY">N2</label>
+      <input type="text" placeholder="Insira o Número Y" id="numeroY" />
+
+      <br />
+
+      <p>O resultado da operação é: <strong id="result"></strong> </p>
+
+
+      <button>Calculate</button>
+
+      <script src="./Scripts/calculadora.js"></script>
+    </form>
+  </body>
+</html>
