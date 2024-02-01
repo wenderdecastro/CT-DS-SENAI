@@ -21,5 +21,6 @@ export const TextHeader = styled.Text`
     color: #333E33;
     font-size: 24px;
     font-family: 'Roboto_500Medium';
+    text-align: center;
 `;
 
