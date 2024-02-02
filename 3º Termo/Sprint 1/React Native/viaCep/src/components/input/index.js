@@ -2,10 +2,10 @@ import { InputText } from "./style";
 
 export function Input({
   placeholder,
-  editable,
-  fieldValue,
-  onChangeText,
-  keyType,
+  editable = false,
+  fieldValue = null,
+  onChangeText = null,
+  keyType = 'default',
   maxLenght,
 }) {
   return (

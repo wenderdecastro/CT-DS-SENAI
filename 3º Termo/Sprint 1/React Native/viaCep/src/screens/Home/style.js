@@ -10,3 +10,8 @@ export const ContainerForm = styled.SafeAreaView`
   display: flex;
   justify-content: space-between;
 `;
+export const InputGroup = styled.View`
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+`
