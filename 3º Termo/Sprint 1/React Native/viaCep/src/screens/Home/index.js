@@ -1,62 +1,34 @@
 import { useEffect, useState } from "react";
 import { ContainerInput } from "../../components/containerinput";
 import { ContainerForm, InputGroup, ScrollForm } from "./style";
-import { api } from "../../../services/apiservice";
+import { api, getCep } from "../../../services/apiservice";
 
-export function Home(){
+export function Home() {
+	const [cep, setCep] = useState("08580-250");
+	const [adress, setAdress] = useState({});
 
-	const[cep, setCep] = useState('')
-	const[adress, setAdress] = useState({cep:"47400-000", logradouro: "", bairro:"", localidade:"Xique-Xique", uf: "BA"});
+	useEffect(() => {
+		getAdress();
+	}, [cep]);
 
-	useEffect( async() => {
-		LoadData()
-	},[]);
-
-	async function LoadData(cep){
-		if(cep.length !== 9) return;
-
-		try {
-			const response = await api.get(`${cep}/json`);
-			const data = await response.data;
-
-			if(response.data){
-				setAdress({
-					cep: data.cep,
-					logradouro: data.logradouro,
-					localidade: data.localidade,
-					uf: data.uf,
-					bairro: data.bairro
-				})
-
-				console.log(data);
-				return;
-			}
-
-			console.log("Endereço não encontrado");
-		} catch (error) {
-
-			console.error("Erro ao buscar o endereço. Cod. erro: "+ error)
-			
+	async function getAdress() {
+		if (cep.length == 8) {
+			const add = await getCep(cep);
+			if(add == undefined) return;
+			setAdress(add);
 		}
-		
-
-		
-
-		
-		
-		
 	}
 
-    return (
+	return (
 		<ScrollForm>
 			<ContainerForm>
 				<ContainerInput
 					textLabel="CEP"
-					maxLenght={9}
+					maxLenght={8}
 					placeholder="ex: 12345-123"
 					editable={true}
-					onChangeText={(text) => {setCep(text)}}
 					fieldValue={cep}
+					onChangeText={(tx) => setCep(tx)}
 				/>
 				<ContainerInput
 					textLabel="Logradouro"
@@ -79,22 +51,22 @@ export function Home(){
 					fieldValue={adress.localidade}
 				/>
 				<InputGroup>
-				<ContainerInput
-					textLabel="Estado"
-					maxLenght={9}
-					placeholder="ex: Bahia"
-					fieldWidth={62.5}
-					editable={true}
-
-				/>
-				<ContainerInput
-					textLabel="UF"
-					maxLenght={9}
-					placeholder="UF"
-					fieldWidth={30}
-					editable={true}
-					fieldValue={adress.uf}
-				/>
+					<ContainerInput
+						textLabel="Estado"
+						maxLenght={9}
+						placeholder="ex: Bahia"
+						fieldWidth={62.5}
+						editable={true}
+						fieldValue={adress.estado}
+					/>
+					<ContainerInput
+						textLabel="UF"
+						maxLenght={9}
+						placeholder="UF"
+						fieldWidth={30}
+						editable={true}
+						fieldValue={adress.uf}
+					/>
 				</InputGroup>
 			</ContainerForm>
 		</ScrollForm>

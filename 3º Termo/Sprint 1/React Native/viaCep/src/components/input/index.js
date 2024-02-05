@@ -3,16 +3,16 @@ import { InputText } from "./style";
 export function Input({
   placeholder,
   editable = false,
-  fieldValue = null,
-  onChangeText = null,
+  fieldValue,
+  onChangeText,
   keyType = 'default',
   maxLenght,
 }) {
   return (
-    <InputText
+    <InputText placeholderTextColor={'#a1a1a1'}
       placeholder={placeholder}
       editable={editable}
-      fieldValue={fieldValue}
+      value={fieldValue}
       onChangeText={onChangeText}
       keyType={keyType}
       maxLenght={maxLenght}

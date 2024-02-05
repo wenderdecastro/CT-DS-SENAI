@@ -1,6 +1,5 @@
 
 import { Input } from "../input";
-import { InputText } from "../input/style";
 import { Label } from "../label";
 import { FieldContent } from "./style";
 
